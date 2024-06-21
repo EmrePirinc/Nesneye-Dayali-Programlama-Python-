@@ -5,8 +5,7 @@
 
 ![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/fe38aaac-718d-4788-ad74-5388224fe8d6)
 
-
-
+![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/a8af486c-218d-4eb1-9059-b509a2c8b163)
 
 
 2. Hafta 19.02.2024.ipynb ilk uygulamalı derstir. İlk haftada ders içi planlamalar, gelecek derslerin işleyişi hakkında bilgiler ve tanıtımlar yapıldı. O yüzden ders notları 2. haftadan başlamaktadır.
