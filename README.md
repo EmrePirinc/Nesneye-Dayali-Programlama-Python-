@@ -1,39 +1,37 @@
-# Nesneye-Dayali-Programlama-Python-
- Sakarya Üniversitesi Yönetim Bilişim Sistemleri bölümünde aldığım Nesneye Dayalı Programlama dersinin notlarını paylaşıyorum. Dersi veren Doç. Dr. Emrah AYDEMİR, zaman zaman kendi yazdığı "Uygulamalar ile Python ve Yapay Zeka" kitabını da kaynak olarak kullanmaktadır.
+## Nesneye Yönelik Programlama - Python (Sakarya Üniversitesi)
 
-![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/d89b594e-b0ac-4755-b879-bf0f60d1255e)
+Bu repo, Sakarya Üniversitesi Yönetim Bilişim Sistemleri bölümünde aldığım Nesneye Yönelik Programlama dersinin notlarını içermektedir. Ders, Doç. Dr. Emrah AYDEMİR tarafından verilmiş olup, zaman zaman kendi yazdığı "Uygulamalar ile Python ve Yapay Zeka" kitabı da kaynak olarak kullanılmıştır.
 
-![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/fe38aaac-718d-4788-ad74-5388224fe8d6)
+### İçerik
 
-![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/a8af486c-218d-4eb1-9059-b509a2c8b163)
+Bu repo, haftalık ders notlarının yanı sıra derslerde yapılan uygulamaların ve çözülen örnek soruların kodlarını da içermektedir. 
 
+* **2. Hafta - 15. Hafta:** Her hafta için ayrı bir Jupyter Notebook dosyası (`.ipynb`) bulunmaktadır. Bu dosyalar, o hafta işlenen konuların anlatımını, kod örneklerini ve önemli noktaları içermektedir.
+* **Ek Dosyalar:** Bazı haftalarda, ders notlarında kullanılan veri setleri, uygulama dosyaları veya ek örnekler gibi ek dosyalar da bulunmaktadır. Bu dosyaların isimleri, hangi haftaya ait olduklarını ve içeriklerini belirtecek şekilde düzenlenmiştir.
 
-2. Hafta 19.02.2024.ipynb ilk uygulamalı derstir. İlk haftada ders içi planlamalar, gelecek derslerin işleyişi hakkında bilgiler ve tanıtımlar yapıldı. O yüzden ders notları 2. haftadan başlamaktadır.
+### Nasıl Kullanılır
 
-9 VİZE SONRASI
-Vize sınavı öncesi ve sonrasını ayırmak için kullandığım boş bir dosyadır. Aynı zamanda 9. hafta ve 10. haftalarda ders olmadığını ifade eder. ( 9. hafta vize sınavının olduğu hafta - 10. hafta ise bayram tatili. )
+1. **Repoyu İndirin:** Bu repoyu bilgisayarınıza indirmek için yeşil "Code" butonuna tıklayıp "Download ZIP" seçeneğini kullanabilirsiniz. ![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/6b780592-d1aa-45ed-87d4-0b9b7d7b8df7)
 
-11. Hafta 22.04.2024 tarihli ders notum.  
-"11.haftaSoru.rapx ve 11.Hafta-dosya.rapx "  dosyaları ders notlarında geçen sorular ile alakalıdır. 
+2. **Dosyaları Açın:** İndirdiğiniz ZIP dosyasını açtıktan sonra, içerisindeki klasörü VS Code veya PyCharm gibi bir kod editöründe açın. ![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/08f8c6e4-9cb3-4b09-a57f-b8843cc976b0)
 
-12. Hafta 29.04.2024.ipynb tarihli ders notumdur.  Aşağıdaki diğer dosyalar ise ders notlarında geçen sorular ve uygulamalar ile alakalıdır. 
-12.haftaSoru3.txt
-12.haftaSoru2.txt
-12.haftaSoru.txt
-12.Hafta.Dosya2.txt
-12.hafta.Dosya.txt
+3. **Gerekli Eklentileri Yükleyin:** Kodları çalıştırabilmek için Python ve Jupyter eklentilerini yüklemeniz gerekmektedir. Bunun için:
+    * VS Code'da, sol taraftaki uzantılar simgesine tıklayın (Ctrl+Shift+X) ve "Python" ve "Jupyter" eklentilerini arayın.
+    *  "Önerilen uzantıları yükle/etkinleştir Python + Jupyter" yazısına tıklayarak eklentilerin yüklenmesini bekleyin.  ![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/96b5ac6f-2125-47eb-962f-bb9719d56938) ![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/811cfd3b-ca17-4588-af9c-475e7d345bd9)
 
 
-13. Hafta 06.05.2024 tarihli ders notumdur. Aşağıdaki diğer dosyalar ise ders notlarında geçen sorular ve uygulamalar ile alakalıdır. 
-13.hafta.kelimeler.txt
-13.Hafta.kelime_uzunluklari.txt
+4. **Notları ve Kodları İnceleyin:** Eklentiler yüklendikten sonra, Jupyter Notebook dosyalarını (`.ipynb`) açarak ders notlarını inceleyebilir ve kod örneklerini çalıştırabilirsiniz.
 
-14. Hafta 13.05.2024 tarihli ders notumdur. Aşağıdaki diğer dosya ise ders notlarında geçen sorular ve uygulamalar ile alakalıdır. 
-14.Hafta.veriler.txt
+### Hafta Hafta İçerik
 
-15. Son Hafta 20.05.2024 tarihli ders notumdur. Aşağıdaki diğer dosya ise ders notlarında geçen sorular ve uygulamalar ile alakalıdır. 
-tarihler.py
-dortIslem.py
-dizi.py
+* **2. Hafta (19.02.2024):**  İlk uygulamalı ders.
+* **9. Hafta (Vize Sonrası):** Boş bir dosya (Vize haftası ve bayram tatili).
+* **11. Hafta (22.04.2024):**  "11.haftaSoru.rapx" ve "11.Hafta-dosya.rapx" dosyaları bu haftanın ders notlarıyla ilişkilidir.
+* **12. Hafta (29.04.2024):**  "12.haftaSoru3.txt", "12.haftaSoru2.txt", "12.haftaSoru.txt", "12.Hafta.Dosya2.txt", "12.hafta.Dosya.txt" dosyaları bu haftanın ders notlarıyla ilişkilidir.
+* **13. Hafta (06.05.2024):**  "13.hafta.kelimeler.txt", "13.Hafta.kelime_uzunluklari.txt" dosyaları bu haftanın ders notlarıyla ilişkilidir.
+* **14. Hafta (13.05.2024):**  "14.Hafta.veriler.txt" dosyası bu haftanın ders notlarıyla ilişkilidir.
+* **15. Hafta (20.05.2024):** "tarihler.py", "dortIslem.py", "dizi.py" dosyaları bu haftanın ders notlarıyla ilişkilidir.
 
+Umarım bu repo, Nesneye Yönelik Programlama ve Python öğrenme yolculuğunuzda faydalı olur!
 
+**Not:** Ekran görüntüleri eklemek isterseniz, README dosyasına resim dosyalarını ekleyip  `![Resim Açıklaması](resim-dosyasi.png)`  şeklinde kod kullanarak gömebilirsiniz.
