@@ -3,8 +3,6 @@
 
 ![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/d89b594e-b0ac-4755-b879-bf0f60d1255e)
 
-![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/1956e085-d365-4ff4-8ea1-6348591ceaae)
-
 ![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/fe38aaac-718d-4788-ad74-5388224fe8d6)
 
 
