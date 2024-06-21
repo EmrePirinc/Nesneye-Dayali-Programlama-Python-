@@ -43,4 +43,4 @@ Bu repo, haftalık ders notlarının yanı sıra derslerde yapılan uygulamalar�
 
 Umarım bu repo, Nesneye Yönelik Programlama ve Python öğrenme yolculuğunuzda faydalı olur!
 
-Not: Bu depo, dersin içeriğini takip etmenize yardımcı olacak bir kaynaktır. Anlamadığınız noktaları hocanıza veya asistanlara danışmanız önerilir.
+**Not:** Bu depo, dersin içeriğini takip etmenize yardımcı olacak bir kaynaktır. Anlamadığınız noktaları hocanıza veya asistanlara danışmanız önerilir.
