@@ -11,7 +11,7 @@ Bu repo, haftalık ders notlarının yanı sıra derslerde yapılan uygulamalar�
 
 ### Nasıl Kullanılır
 
-1. **Repoyu İndirin:** Bu repoyu bilgisayarınıza indirmek için yeşil "Code" butonuna tıklayıp "Download ZIP" seçeneğini kullanabilirsiniz. ![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/6b780592-d1aa-45ed-87d4-0b9b7d7b8df7)
+1. **Repoyu İndirin:** Bu repoyu bilgisayarınıza indirmek için yeşil "Code" butonuna tıklayıp "Download ZIP" seçeneğini kullanabilirsiniz. ![Screenshot](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/69db3076-8b3d-422a-a8e8-32643eaff8c4)
 
 2. **Dosyaları Açın:** İndirdiğiniz ZIP dosyasını açtıktan sonra, içerisindeki klasörü VS Code veya PyCharm gibi bir kod editöründe açın. ![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/08f8c6e4-9cb3-4b09-a57f-b8843cc976b0)
 
