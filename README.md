@@ -1,6 +1,9 @@
 # Nesneye-Dayali-Programlama-Python-
  Sakarya Üniversitesi Yönetim Bilişim Sistemleri bölümünde aldığım Nesneye Dayalı Programlama dersinin notlarını paylaşıyorum. Dersi veren Doç. Dr. Emrah AYDEMİR, zaman zaman kendi yazdığı "Uygulamalar ile Python ve Yapay Zeka" kitabını da kaynak olarak kullanmaktadır.
 
+![image](https://github.com/M-Reyy/Nesneye-Dayali-Programlama-Python-/assets/55940636/d89b594e-b0ac-4755-b879-bf0f60d1255e)
+
+
 2. Hafta 19.02.2024.ipynb ilk uygulamalı derstir. İlk haftada ders içi planlamalar, gelecek derslerin işleyişi hakkında bilgiler ve tanıtımlar yapıldı. O yüzden ders notları 2. haftadan başlamaktadır.
 
 9 VİZE SONRASI
