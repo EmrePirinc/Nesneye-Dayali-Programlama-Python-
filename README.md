@@ -42,3 +42,5 @@ Bu repo, haftalık ders notlarının yanı sıra derslerde yapılan uygulamalar�
 * **15. Hafta (20.05.2024):** "tarihler.py", "dortIslem.py", "dizi.py" dosyaları bu haftanın ders notlarıyla ilişkilidir.
 
 Umarım bu repo, Nesneye Yönelik Programlama ve Python öğrenme yolculuğunuzda faydalı olur!
+
+Not: Bu depo, dersin içeriğini takip etmenize yardımcı olacak bir kaynaktır. Anlamadığınız noktaları hocanıza veya asistanlara danışmanız önerilir.
